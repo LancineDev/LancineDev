@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f861f1681d3b98d0f849/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding GIF"/>
+  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
 </div>
 
 <div align="center">
@@ -23,10 +23,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Education%20%26%20Background&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
-
 ## 🎓 **Education & Background**
 
 **Bachelor of Science in Computer Science**  
@@ -36,9 +32,7 @@ Currently specializing in **Data Science** with extensive hands-on experience in
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Current%20Projects&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%"/>
-</div>
+![Projects Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Current%20Projects&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32)
 
 ## 🚀 **What I'm Working On**
 
@@ -60,9 +54,7 @@ Interactive dashboards using Streamlit and modern visualization libraries to mak
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,17,25&height=180&section=header&text=Tech%20Arsenal&fontSize=48&fontColor=fff&animation=blinking&fontAlignY=32" width="100%"/>
-</div>
+![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,17,25&height=180&section=header&text=Tech%20Arsenal&fontSize=48&fontColor=fff&animation=blinking&fontAlignY=32)
 
 ## 🛠️ **Tech Stack**
 
@@ -103,9 +95,7 @@ Interactive dashboards using Streamlit and modern visualization libraries to mak
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,33&height=180&section=header&text=Learning%20Journey&fontSize=44&fontColor=fff&animation=scaleIn&fontAlignY=32" width="100%"/>
-</div>
+![Learning Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,33&height=180&section=header&text=Learning%20Journey&fontSize=44&fontColor=fff&animation=scaleIn&fontAlignY=32)
 
 ## 📚 **Continuous Learning Journey**
 
@@ -133,9 +123,7 @@ Interactive dashboards using Streamlit and modern visualization libraries to mak
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,17,30&height=180&section=header&text=Opportunities&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
+![Opportunities Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,17,30&height=180&section=header&text=Opportunities&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32)
 
 ## 🎯 **Open to Opportunities**
 
@@ -158,9 +146,7 @@ Interactive dashboards using Streamlit and modern visualization libraries to mak
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,9,20,30&height=180&section=header&text=Philosophy&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%"/>
-</div>
+![Philosophy Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,9,20,30&height=180&section=header&text=Philosophy&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=32)
 
 ## ⚡ **My Philosophy**
 
@@ -172,9 +158,7 @@ Interactive dashboards using Streamlit and modern visualization libraries to mak
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,15,26&height=180&section=header&text=GitHub%20Analytics&fontSize=40&fontColor=fff&animation=blinking&fontAlignY=32" width="100%"/>
-</div>
+![Analytics Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,15,26&height=180&section=header&text=GitHub%20Analytics&fontSize=40&fontColor=fff&animation=blinking&fontAlignY=32)
 
 ## 📊 **GitHub Stats**
 
@@ -193,9 +177,7 @@ Interactive dashboards using Streamlit and modern visualization libraries to mak
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,25,32&height=180&section=header&text=Featured%20Work&fontSize=46&fontColor=fff&animation=scaleIn&fontAlignY=32" width="100%"/>
-</div>
+![Featured Work Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,25,32&height=180&section=header&text=Featured%20Work&fontSize=46&fontColor=fff&animation=scaleIn&fontAlignY=32)
 
 ## 🏆 **Featured Projects**
 
@@ -229,9 +211,7 @@ Interactive dashboards using Streamlit and modern visualization libraries to mak
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,19,28&height=180&section=header&text=Fun%20Zone&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</div>
+![Fun Zone Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,19,28&height=180&section=header&text=Fun%20Zone&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32)
 
 ## 🌟 **Fun Facts & Interests**
 
@@ -249,19 +229,7 @@ Interactive dashboards using Streamlit and modern visualization libraries to mak
 
 ---
 
-## 📬 **Get In Touch**
-
-<div align="center">
-
-### 💬 **Let's Connect and Build Something Amazing Together!**
-
-Whether you're looking to collaborate on exciting projects, discuss opportunities, or just chat about the latest in tech and AI, I'd love to hear from you!
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24,35&height=180&section=header&text=Let's%20Connect!&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%"/>
-</div>
+![Connect Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24,35&height=180&section=header&text=Let's%20Connect!&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=32)
 
 ## 📬 **Get In Touch**
 
