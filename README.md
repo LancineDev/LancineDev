@@ -21,7 +21,7 @@
 
 ## 🎓 About Me
 
-**Data Science Professional** specializing in Machine Learning and Full-Stack Development. Currently pursuing a Bachelor's in Computer Science at Rathinam College, India. Passionate about transforming complex data into actionable insights and building intelligent web applications.
+**Data Science Professional** specializing in Machine Learning and Full-Stack Development. Currently Graduated in Computer Science at Rathinam College, India. Passionate about transforming complex data into actionable insights and building intelligent web applications.
 
 **🌍 Open to opportunities in:** France 🇫🇷, Côte d'Ivoire 🇨🇮, or Remote positions
 
